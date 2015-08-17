@@ -6,6 +6,7 @@
 
 ####1.2 教材
 统计和概率是机器学习的基础，所以统计和概率一定要学好。
+
 1. **推荐必读**   统计学和机器学习结合的入门书：[统计学习方法](https://github.com/jindongwang/MachineLearning/blob/master/books/2012.%E6%9D%8E%E8%88%AA.%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)，作者[李航](http://blog.sina.com.cn/u/2060750830)。这本书介绍了10个机器学习领域的代表性算法，讲的非常好，书本身也就200多页，很适合入门，强烈推荐。
 2. 机器学习理论方面：权威学者[Kevin P. Murphy](http://www.cs.ubc.ca/~murphyk/)的著作[Machine Learning:A Probabilistic Perspective(MLAPP)](https://github.com/jindongwang/MachineLearning/blob/master/books/mlapp.pdf) ，非常厚，偏重数学理论，难度高，是学习机器学习理论的教材，我们上课用书。
 3. 用python进行数据处理的书：[利用python进行数据分析](http://dlwt.csdn.net/fd.php?i=651281517754404&s=45e7feb35741a9192c2049454658704e)，适合浏览，偏重工程实践，介绍常用的python处理数据的方法和函数等，可以看看。
