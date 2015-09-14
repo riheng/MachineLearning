@@ -2,7 +2,7 @@
 ###1. 机器学习与概率、统计学
 ####1.1 公开课
 1. [斯坦福机器学习入门课程](https://www.coursera.org/learn/machine-learning)，讲师为Andrew Ng，适合数学基础一般的人。
-2. Coursera上国立台湾大学[林轩田](https://www.coursera.org/instructor/htlin)开的两门课：[机器学习基石](https://www.coursera.org/course/ntumlone)（适合入门），[机器学习技法](https://www.coursera.org/course/ntumltwo)（适合提高）。
+2. Coursera上国立台湾大学[林轩田](https://www.coursera.org/instructor/htlin)开的两门课：[机器学习基石](https://www.coursera.org/course/ntumlone)（适合入门，目前第3期刚开课），[机器学习技法](https://www.coursera.org/course/ntumltwo)（适合提高）。
 
 ####1.2 教材
 统计和概率是机器学习的基础，所以统计和概率一定要学好。
@@ -30,7 +30,7 @@ python、java以及matlab三种语言是目前比较流行的机器学习方面�
     * matlab：强在其科学计算部分上。matlab我用的不多，因为目前来看，它和python的科学计算差不多。
 
 * 网上的教程
-这是在一个妹子的微信朋友圈看到的[文章](http://mp.weixin.qq.com/s?__biz=MjM5MjAxMDM4MA==&mid=205009516&idx=1&sn=c5b157ad3fac5c5551a210b0d7df82e6&scene=1&key=dffc561732c22651bb1642a345869d95ab71b4da7c9d7e4cbaf2b67a7b354b4fc8d6a6105171f7a8d0afde389529bb7f&ascene=1&uin=NjMzMjQzMTYw&devicetype=Windows+10&version=61020020&pass_ticket=ygVY8iy3pSYNZ2Rwe2FnXSQ5lRAKLeMmssjmRIlD4QYgBeYoE1OPVBL%2BfpjaKY0i)，很不错。妹子也很不错，正在努力。
+这是在一个妹子的微信朋友圈看到的[文章](http://mp.weixin.qq.com/s?__biz=MjM5MjAxMDM4MA==&mid=205009516&idx=1&sn=c5b157ad3fac5c5551a210b0d7df82e6&scene=1&key=dffc561732c22651bb1642a345869d95ab71b4da7c9d7e4cbaf2b67a7b354b4fc8d6a6105171f7a8d0afde389529bb7f&ascene=1&uin=NjMzMjQzMTYw&devicetype=Windows+10&version=61020020&pass_ticket=ygVY8iy3pSYNZ2Rwe2FnXSQ5lRAKLeMmssjmRIlD4QYgBeYoE1OPVBL%2BfpjaKY0i)，很不错。妹子也很不错，不过还是随缘吧。
 
 ###2. 数据挖掘
 * 快速入门：看我去年考试写的总结[数据挖掘复习整理](https://github.com/jindongwang/MachineLearning/blob/master/books/Data%20Mining/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%A4%8D%E4%B9%A0%E6%95%B4%E7%90%86.pdf)，可快速了解数据挖掘的相关概念。这个总结去年在雁栖湖传的很火，还有妹子给我发短信感谢。。。
