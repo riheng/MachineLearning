@@ -1,6 +1,16 @@
 # 机器学习 Machine Learning
 ##一些机器学习的入门资料和关于行为识别的一些文章
-##关于机器学习的一些东西
+
+####1.[机器学习入门资料](https://github.com/jindongwang/MachineLearning/blob/master/MLMaterials.md)
+
+####2.[近几年国际会议关于行为识别文章与简介](https://github.com/jindongwang/MachineLearning/blob/master/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E8%AE%BA%E6%96%87list.md)
+
+####3.[我们课题组关于行为识别的文章](https://github.com/jindongwang/MachineLearning/blob/master/%E8%AF%BE%E9%A2%98%E7%BB%84%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E8%AE%BA%E6%96%87.md)
+####4.[我们课题组研究项目](https://github.com/jindongwang/MachineLearning/blob/master/%E8%AF%BE%E9%A2%98%E7%BB%84%E7%A0%94%E7%A9%B6%E9%A1%B9%E7%9B%AE%E4%B8%8E%E4%BA%BA%E7%89%A9%E6%8E%A8%E8%8D%90.md)
+####5.[人机交互与创业论坛](https://github.com/jindongwang/MachineLearning/blob/master/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E4%B8%8E%E5%88%9B%E4%B8%9A%E8%AE%BA%E5%9D%9B.md)
+####6.[我做的行为识别方面的研究总结](https://github.com/jindongwang/MachineLearning/blob/master/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E6%96%B9%E9%9D%A2%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87%E7%A0%94%E7%A9%B6%E6%80%BB%E7%BB%93.pptx)
+####7.[东京大学同学做的人机交互报告](https://github.com/jindongwang/MachineLearning/blob/master/FieldResearchinChina927-104.pdf)
+####8.[我做的人机交互简介](https://github.com/jindongwang/HCI)
 
 ###1.关于技术本身的情况
 
