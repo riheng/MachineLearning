@@ -1,16 +1,22 @@
 ##机器学习的一些资料
 ###1. 机器学习与概率、统计学
 ####1.1 公开课
-1. [斯坦福机器学习入门课程](https://www.coursera.org/learn/machine-learning)，讲师为Andrew Ng，适合数学基础一般的人。
-2. Coursera上国立台湾大学[林轩田](https://www.coursera.org/instructor/htlin)开的两门课：[机器学习基石](https://www.coursera.org/course/ntumlone)（适合入门，目前第3期刚开课），[机器学习技法](https://www.coursera.org/course/ntumltwo)（适合提高）。
+1. [斯坦福机器学习入门课程](https://www.coursera.org/learn/machine-learning)，讲师为Andrew Ng，适合数学基础一般的人，适合入门，但是学完会发现只是懂个大概，也就相当于什么都不懂。
+2. Coursera上国立台湾大学[林轩田](https://www.coursera.org/instructor/htlin)开的两门课：[机器学习基石](https://www.coursera.org/course/ntumlone)（适合入门），[机器学习技法](https://www.coursera.org/course/ntumltwo)（适合提高）。
 
-####1.2 教材
+####1.2 推荐书目
 统计和概率是机器学习的基础，所以统计和概率一定要学好。
 
 1. **推荐必读**   统计学和机器学习结合的入门书：[统计学习方法](https://github.com/jindongwang/MachineLearning/blob/master/books/2012.%E6%9D%8E%E8%88%AA.%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)，作者[李航](http://blog.sina.com.cn/u/2060750830)。这本书介绍了10个机器学习领域的代表性算法，讲的非常好，书本身也就200多页，很适合入门，强烈推荐。
-2. 机器学习理论方面：权威学者[Kevin P. Murphy](http://www.cs.ubc.ca/~murphyk/)的著作[Machine Learning:A Probabilistic Perspective(MLAPP)](https://github.com/jindongwang/MachineLearning/blob/master/books/mlapp.pdf) ，非常厚，偏重数学理论，难度高，是学习机器学习理论的教材，我们上课用书。
+2. 机器学习理论方面：
+	- **推荐** 著名教材《Pattern Recognition》中文版为[《模式分类》第二版](https://github.com/jindongwang/MachineLearning/tree/master/books/Machine%20Learning/%E6%A8%A1%E5%BC%8F%E5%88%86%E7%B1%BB%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89%E4%B8%8E%E7%AD%94%E6%A1%88)，从数学的角度讲了机器学习的方方面面，非常不错。这本书好的地方是，书中所有的算法都有数学推导，讲的也很全面，作者的眼光很独到，习题和上机题也非常有挑战性；不好的地方就是，对现在流行的比如boosting和SVM等，书只是略讲了一下，可能需要额外再补充知识。不过即便如此，当我最近一个月看到这书时立刻就感叹为什么我当初上课的时候没有赶上这本书！
+
+	- 权威学者[Kevin P. Murphy](http://www.cs.ubc.ca/~murphyk/)的著作[Machine Learning:A Probabilistic Perspective(MLAPP)](https://github.com/jindongwang/MachineLearning/blob/master/books/mlapp.pdf) ，非常厚，偏重数学理论，难度高，是学习机器学习理论的教材，我们上课用书。
+
 3. 用python进行数据处理的书：[利用python进行数据分析](http://dlwt.csdn.net/fd.php?i=651281517754404&s=45e7feb35741a9192c2049454658704e)，适合浏览，偏重工程实践，介绍常用的python处理数据的方法和函数等，可以看看。
 4. [机器学习实战](https://github.com/jindongwang/MachineLearning/tree/master/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98)，这个和第3点说的这个书配合看，效果不错，这个书很有针对性，每个算法有一个实际问题，有源程序让你去写，不错。
+5. 学习统计不能不说的经典的[《统计学习基础》](https://github.com/jindongwang/MachineLearning/tree/master/books/Machine%20Learning)，我暂时还没看过。
+6. 以及业界久负盛名的PRML（模式识别与机器学习），我这里[中文英文版](https://github.com/jindongwang/MachineLearning/tree/master/books/Machine%20Learning)都有。
 
 ####1.3. 工具
 * 第三方库
@@ -25,7 +31,7 @@
 
 * 工具
 python、java以及matlab三种语言是目前比较流行的机器学习方面的语言。
-    * python：强在各种包，几乎无所不能，其科学计算部分（scikit）和matlab不相上下。
+    * python：强在各种包，几乎无所不能，其科学计算部分（scikit）和matlab不相上下。用Flask当作web框架，几乎可以直接部署成web项目，非常方便，强烈推荐。
     * java：强在其企业级应用能力和稳定性。
     * matlab：强在其科学计算部分上。matlab我用的不多，因为目前来看，它和python的科学计算差不多。
 
