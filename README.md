@@ -12,6 +12,10 @@
 ####7.[东京大学同学做的人机交互报告](https://github.com/jindongwang/MachineLearning/blob/master/FieldResearchinChina927-104.pdf)
 ####8.[我做的人机交互简介](https://github.com/jindongwang/HCI)
 
+9.[我做的迁移学习学术报告](http://www.github.com)
+
+
+
 ###1.关于技术本身的情况
 
 1.1 Machine Learning的一些理解
