@@ -1,30 +1,28 @@
-# 机器学习 Machine Learning
-##一些机器学习的入门资料和关于行为识别的一些文章
+##一些机器学习的资源
+
+####*关于行为识别的资料，请看我最新增加的这个地址*:[行为识别](https://github.com/jindongwang/activityrecognition)。
 
 ####1.[机器学习入门资料](https://github.com/jindongwang/MachineLearning/blob/master/MLMaterials.md)
 
-####2.[近几年国际会议关于行为识别文章与简介](https://github.com/jindongwang/MachineLearning/blob/master/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E8%AE%BA%E6%96%87list.md)
+####2.[东京大学同学做的人机交互报告](https://github.com/jindongwang/MachineLearning/blob/master/FieldResearchinChina927-104.pdf)
 
-####3.[我们课题组关于行为识别的文章](https://github.com/jindongwang/MachineLearning/blob/master/%E8%AF%BE%E9%A2%98%E7%BB%84%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E8%AE%BA%E6%96%87.md)
-####4.[我们课题组研究项目](https://github.com/jindongwang/MachineLearning/blob/master/%E8%AF%BE%E9%A2%98%E7%BB%84%E7%A0%94%E7%A9%B6%E9%A1%B9%E7%9B%AE%E4%B8%8E%E4%BA%BA%E7%89%A9%E6%8E%A8%E8%8D%90.md)
-####5.[人机交互与创业论坛](https://github.com/jindongwang/MachineLearning/blob/master/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E4%B8%8E%E5%88%9B%E4%B8%9A%E8%AE%BA%E5%9D%9B.md)
-####6.[我做的行为识别方面的研究总结](https://github.com/jindongwang/MachineLearning/blob/master/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E6%96%B9%E9%9D%A2%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87%E7%A0%94%E7%A9%B6%E6%80%BB%E7%BB%93.pptx)
-####7.[东京大学同学做的人机交互报告](https://github.com/jindongwang/MachineLearning/blob/master/FieldResearchinChina927-104.pdf)
-####8.[我做的人机交互简介](https://github.com/jindongwang/HCI)
+####3.[我做的人机交互简介](https://github.com/jindongwang/HCI)
 
-#### 9.[我做的迁移学习学术报告](https://github.com/jindongwang/MachineLearning/blob/master/TransferLearning.pdf)
+####4.[我做的迁移学习学术报告](https://github.com/jindongwang/MachineLearning/blob/master/TransferLearning.pdf)
 
-
+####6.[人机交互与创业论坛](https://github.com/jindongwang/MachineLearning/blob/master/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E4%B8%8E%E5%88%9B%E4%B8%9A%E8%AE%BA%E5%9D%9B.md)
 
 ###1.关于技术本身的情况
 
 1.1 Machine Learning的一些理解
-* 机器学习的概念自不用多说。这里我仅提到一点，机器学习在学科分类上是数据人工智能范畴，注定它和AI是不可分的。其实，传统的AI一直都侧重解决三个步骤的问题：知识的表示、知识的获取和知识的学习。其中，机器学习涵盖了知识的获取和学习两大部分，是AI的核心部分。其实说白了，ML解决的就是怎么从已知推断未知，它走的是归纳（induction）这个自上而下的过程，AI中还有一个相对立的知识体系叫做演绎（deduction），这个主要是自动推理的范畴，和机器学习基本关系不大，是较独立的一支。
+* 机器学习的概念自不用多说。这里我仅提到一点，机器学习在学科分类上是属于实现人工智能的一种重要方法，注定它和AI是不可分的。其实，传统的AI一直都侧重解决三个步骤的问题：知识的表示、知识的获取和知识的学习。其中，机器学习涵盖了知识的获取和学习两大部分，是AI的核心部分。其实说白了，ML解决的就是怎么从已知推断未知，它走的是归纳（induction）这个自上而下的过程，AI中还有一个相对立的知识体系叫做演绎（deduction），这个主要是自动推理的范畴，和机器学习基本关系不大，是较独立的一支。
 
 1.2 一些课程资料
 * 课程1：很有名的课程，你肯定知道，Andrew Ng在Stanford开的课，地址：[吴恩达的机器学习公开课](https://www.coursera.org/learn/machine-learning)。该课程的优点：简单易懂，适用于初学者，特别适合入门及数学能力一般的，不难。缺点也很明显，基本都是点到为止，讲解不够深入，只适用于初学。我目前已看完。
 
-* 课程2：这个也是coursera上的课，讲师是国立台湾大学的[林轩田](https://www.coursera.org/instructor/htlin)，这个老师拿过三年的KDD Cup冠军，是机器学习界讲课不错的老师。他还写了一个机器学习公开库，是matlab处理机器学习的利器，后面再说。他的课有两门，分别是[机器学习基石](https://www.coursera.org/course/ntumlone)（适合入门），[机器学习技法](https://www.coursera.org/course/ntumltwo)（适合提高）。这个老师讲课很有意思，特别是台湾普通话听着还不错。我目前在听他的机器学习基石，还没有听完。
+* 课程2：这个也是coursera上的课，讲师是国立台湾大学的[林轩田](https://www.coursera.org/instructor/htlin)，这个老师拿过三年的KDD Cup冠军，是机器学习界讲课不错的老师。他的课有两门，分别是[机器学习基石](https://www.coursera.org/course/ntumlone)（适合入门），[机器学习技法](https://www.coursera.org/course/ntumltwo)（适合提高）。这个老师讲课很有意思，特别是台湾普通话听着还不错。我目前在听他的机器学习基石，还没有听完。
+
+* 课程3：Coursera上非常著名的[神经网络](https://www.coursera.org/learn/neural-networks/home/welcome)课，讲师是多伦多大学的Geoffrey Hinton，深度学习的大牛!一定不要错过！
 
 1.3 瓶颈问题
 * 不知道什么特征是重要特征。所以像deep learning很有用，是因为它能自动学习特征
