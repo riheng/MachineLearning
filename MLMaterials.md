@@ -47,10 +47,3 @@ python、java以及matlab三种语言是目前比较流行的机器学习方面�
 * 快速入门：可以看我们当时上课的[ppt](https://github.com/jindongwang/MachineLearning/tree/master/books/AI/ppt)，大概对AI有一些了解（这个ppt有好多部分都是直接截图了李航的统计学习方法）。
 * 教材：著名的教材[人工智能：一种现代方法](https://github.com/jindongwang/MachineLearning/blob/master/books/AI/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%8E%B0%E4%BB%A3%E6%96%B9%E6%B3%95%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%E9%83%A8%E5%88%861.pdf)，很厚，可以翻看。
 
-###4. 其他相关
-####4.1 云计算
-TODO
-####4.2 信息检索
-TODO
-####4.3 推荐系统
-TODO
