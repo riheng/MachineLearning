@@ -12,6 +12,8 @@
 
 ####6.[人机交互与创业论坛](https://github.com/jindongwang/MachineLearning/blob/master/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E4%B8%8E%E5%88%9B%E4%B8%9A%E8%AE%BA%E5%9D%9B.md)
 
+####7.[迁移学习简介](https://github.com/jindongwang/MachineLearning/blob/master/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%AE%80%E4%BB%8B.md)
+
 ###1.关于技术本身的情况
 
 1.1 Machine Learning的一些理解
